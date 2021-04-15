@@ -1,0 +1,24 @@
+
+::placeholder{
+    text-align: center;
+}
+
+.t6-cont{
+    border:3px solid whitesmoke;
+}
+
+.t6-row{
+    border:3px solid dodgerblue;
+}
+
+.t6-col{
+    border:3px solid black;     
+}
+
+input{
+    font-family: 'Monoton', cursive;
+}
+
+h1{
+    font-family: 'Zilla Slab Highlight', cursive;
+}
